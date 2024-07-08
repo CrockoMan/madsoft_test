@@ -1,6 +1,8 @@
 # MADSOFT Тестовое задание Python-разработчик 
 Тестовое задание
 ##### Стек: Pyton, FastAPI, SQLAlchemy
+![image](https://github.com/CrockoMan/madsoft_test/assets/125302139/f1d4c461-9ee4-4f4d-8be9-da2fb1098c1e)
+
 
 Клонировать репозиторий и перейти в него в командной строке:
 
