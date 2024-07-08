@@ -66,7 +66,7 @@ alembic upgrade head
 Запустить сервис:
 
 ```
-uvicorn main:app --reload
+uvicorn app.main:app --reload
 ```
 
 ### API сервиса доступен после запуска 
