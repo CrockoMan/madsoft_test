@@ -49,12 +49,12 @@ python3 -m venv venv
 APP_TITLE=Мемы
 DATABASE_URL=sqlite+aiosqlite:///./fastapi.db
 SECRET=SECRET
-S3_ACCESS_KEY=
-S3_SECRET_KEY=
-S3_ENDPOINT_URL=
-S3_BUCKET_NAME=
-S3_VERIFY=
-S3_BUCKET_PUBLIC_PATH=
+S3_ACCESS_KEY=access_key_s3_хранилища
+S3_SECRET_KEY=secret_key_s3_хранилища
+S3_ENDPOINT_URL=url_s3_хранилища
+S3_BUCKET_NAME=bucket_name_s3_хранилища
+S3_VERIFY=True/False
+S3_BUCKET_PUBLIC_PATH=url_публичного_доступа_s3_хранилища
 ```
 
 Применить миграции
